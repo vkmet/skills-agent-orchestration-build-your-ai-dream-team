@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "name": "Mobile Checkout Refresh",
+      "owner": "Ava Patel",
+      "status": "On Track",
+      "recentActivity": "Completed device QA and merged accessibility fixes.",
+      "priority": "High"
+    },
+    {
+      "name": "Customer Health Reporting",
+      "owner": "Diego Kim",
+      "status": "At Risk",
+      "recentActivity": "Data pipeline latency increased after last schema update.",
+      "priority": "Medium"
+    },
+    {
+      "name": "Knowledge Base Migration",
+      "owner": "Nora Chen",
+      "status": "Off Track",
+      "recentActivity": "Vendor API issue is blocking historical content import.",
+      "priority": "High"
+    },
+    {
+      "name": "Onboarding Email A/B Test",
+      "owner": "Leo Martinez",
+      "status": "On Track",
+      "recentActivity": "Variant B reached statistical significance and is queued for rollout.",
+      "priority": "Low"
+    }
+  ]
+}
